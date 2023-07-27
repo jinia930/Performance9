@@ -1,0 +1,52 @@
+*{
+    background-color: bisque;
+    background-image:url(images/bg.png) ;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.c1 h1{
+    background-color: rgb(102, 226, 226);
+    text-align: center;
+    color: #d9dfdf;
+    border:5px solid #e8b35f;
+    padding: 50px;
+}
+h1{
+    background-color: rgb(102, 226, 226);
+    text-align: center;
+    color: #71cdcd;
+    border:5px solid #e8b35f;
+
+}
+.c1{
+    border-style:dotted dotted solid ridge;
+    border-width: 10px;
+    border-color: rgb(79, 185, 150);
+    padding: 150px;
+}
+.c2{
+    border-style:dotted solid dotted;
+    border-width: 10px;
+    border-color: rgb(79, 185, 150);
+    padding: 50px;
+}
+.c3{
+    border-style:dashed solid dashed;
+    border-width: 10px;
+    border-color: rgb(79, 185, 150);
+    padding: 10px;
+    border-bottom:20px solid #483e3e;
+    border-style: double solid;
+    padding: 150px;
+}
+
+#p1{
+    color: rgb(91, 88, 84);
+    text-align: left;
+    background-image: url(images/bloom.jpeg);
+    /* height: 500px;
+    width:1200px ; */
+   background-position:center ;
+    padding: 150px;
+    background-repeat: no-repeat;
+}
